@@ -16,7 +16,7 @@ Kod baribir GitHub orqali ulanadi.
 1. Telegramda @BotFather ga `/newbot` yuboring, token oling.
 2. Ixtiyoriy: `/setdescriptionpic` orqali logotipni (640x360) qo'ying.
 
-## 2. GitHub'ga yuklash
+## 2. GitHub'ga yuklashh
 ```bash
 git init
 git add .
